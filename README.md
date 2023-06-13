@@ -2,6 +2,8 @@
 
 Hi, there! I'm Teckick.
 
+Currently I'm interested in Rust, AIGC and Databases.
+
 ### Tutorials
 
 - [How Query Engine Works 中文版](https://howqueryengineswork-cn.netlify.app/)
