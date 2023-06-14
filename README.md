@@ -2,7 +2,7 @@
 
 Hi, there! I'm Teckick.
 
-Currently I'm interested in Rust, AIGC and Databases.
+Currently I'm interested in Rust, Databases and AIGC.
 
 ### Tutorials
 
